@@ -2,8 +2,8 @@
 title: 'caminho = input("Insira o caminho para História Digital: ")'
 subtitle: "Conferência de abertura"
 author: Eric Brasil
-abstract: "História Digital e História Digital da Educação: Caminhos Cruzados. Instituto de Estudos Avançados da Universidade de São Paulo."
-keywords: ['História Digital', 'História da Educação', 'Metodologia']
+institution: "História Digital e História Digital da Educação: Caminhos Cruzados. Instituto de Estudos Avançados da Universidade de São Paulo."
+keywords: [História Digital, História da Educação, Metodologia]
 date: "17 de outubro de 2023"
 mainfont: firacode
 titlepage-color: "24273A"
@@ -63,10 +63,27 @@ Como numa linguagem de programação, sem o registro preciso do caminho que leva
 
 ## Quais caminhos até chegar aqui?
 
-- Meus caminhos pessoais: do analógico ao digital à programação
-- Breve história do uso da computação na História: de Busa ao Programming historian
-- História Digital existe? (Comunidade de práticas? Virada laboratorial?)
-- Humano ante do digital
+Há um emaranhado de caminhos trilhados e outros tantos abandonados para eu chegar aqui, sentado nessa mesa tão importante, usando um blazer pra fingir que eu sou sério. Caminhos da própria relação entre história e o digital, entre nosso fazer historiográfico e a computação, mas também dos meus caminhos pessoais. 
+
+Mais do que uma *ego-história* ou a realização da ilusão biográfica, alertada por Bourdieu, vou falar brevemente dessa trajetória individual, pois possibilita refletir sobre mudanças que de alguma forma afetam a todos e todas.
+
+###  Meus caminhos pessoais: do analógico ao digital à programação
+
+[colar trecho da entrevista para Rita]
+
+### Breve história do uso da computação na História: de Busa ao Programming historian
+
+[colar trecho da entrevista para Rita]
+
+### História Digital existe? (Comunidade de práticas? Virada laboratorial?)
+
+- Destacar a crítica do Tiago Gil
+- Pensar no conceito de comunidade de práticas
+- Avançar com a ideia de *Digital Hermeneutics*[^dig-herm]
+- Humano antes do digital
+
+[^dig-herm]: Fickers, Andreas, e Frédéric Clavert. “On Pyramids, Prisms, and Scalable Reading”. *Journal of Digital History*, nº jdh001 (18 de outubro de 2021). https://doi.org/10.1515/JDH-2021-1008?locatt=label:JDHFULL.
+Fickers, Andreas, e Juliane Tatarinov, orgs. **Digital History and Hermeneutics: Between Theory and Practice**. De Gruyter, 2022. https://doi.org/10.1515/9783110723991.
 
 ## A técnica afetando a epistemologia
 
