@@ -2,8 +2,13 @@
 title: 'caminho = input("Insira o caminho para História Digital: ")'
 subtitle: "Conferência de abertura"
 author: Eric Brasil
-description: "História Digital e História Digital da Educação: Caminhos Cruzados. Instituto de Estudos Avançados da Universidade de São Paulo."
+abstract: "História Digital e História Digital da Educação: Caminhos Cruzados. Instituto de Estudos Avançados da Universidade de São Paulo."
+keywords: ['História Digital', 'História da Educação', 'Metodologia']
 date: "17 de outubro de 2023"
+mainfont: firacode
+titlepage-color: "24273A"
+titlepage-text-color: "C6A0F6"
+titlepage-rule-color: "ED8796"
 ---
 
 ## historia_digital.py
@@ -55,3 +60,26 @@ Em outras palavras, o desenvolvimento e aplicação de metodologias documentadas
 Uma pesquisa que se utiliza de buscas digitais em repositórios, como a HDB, não pode prescindir do registro detalhado dos parâmetros utilizados e da publicização tanto das escolhas feitas como dos resultados obtidos. Caso contrário, o conhecimento histórico produzido estará sempre subordinado aos vieses e direcionamentos de conjuntos de decisões técnicas e políticas que forma as páginas de buscas que utilizamos.
 
 Como numa linguagem de programação, sem o registro preciso do caminho que leva desde a raiz até o arquivo final, nossa pesquisa em História está sujeita ao constante `erro` do caminho não encontrado. 
+
+## Quais caminhos até chegar aqui?
+
+- Meus caminhos pessoais: do analógico ao digital à programação
+- Breve história do uso da computação na História: de Busa ao Programming historian
+- História Digital existe? (Comunidade de práticas? Virada laboratorial?)
+- Humano ante do digital
+
+## A técnica afetando a epistemologia
+
+- A mediação das plataformas e motores de busca
+- Um caso emblemático: a HDB, seus vieses e potencialidades
+
+## Afinal, como pesquisamos e o que demandamos?
+
+- Caso dos docentes das IES da Bahia
+
+## Futuro e presente
+
+- Formação técnica
+- Reflexões epistemológicas
+- Colaboração, transparência, ciência aberta
+- Financiamento, políticas públicas
