@@ -1,0 +1,1 @@
+pandoc conferencia.md -o conferencia_new.pdf --template eisvogel -V titlepage=true -V disable-header-and-footer=true --listing -V lang=pt -V fontsize=20pt
