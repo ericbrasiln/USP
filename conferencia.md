@@ -81,11 +81,13 @@ Eu acho que todo mundo que inicia, ou se depara pela primeira vez com um debate 
 
 Além disso, tem muitos outros caminhos de utilização dos computadores na História e nas Humanidades. Nos anos 1960, mesmo nos avanço das pesquisas de História serial e dos Annales dos anos 60-70, e tem uma série de trabalhos de Cliometria, nos anos 1960. Tem uma série de estudos e revistas sobre computação e História até os anos 1980. A gente encontra muito referências a computação em história computing in History, e tem muitos trabalhos assim; mas o que vai catalisar esse movimento vão ser os trabalhos de linguística, e o Boom das digitalizações dos anos 1990. 
 
-É uma virada importante nos anos 1990, com os grandes projetos de digitalização em massa de fontes, de livros. Isso vai começar a dar uma outra força para esse movimento e que vai, inclusive, possibilitar pesquisas linguísticas de longa duração, os estudos de que eles chamam de ngrams, as palavras repetidas e a história desses conceitos ao longo do tempo. Isso começa a crescer e ganhar muita força nos anos 1990. E nos anos 2000 a gente tem essa virada, sobretudo com a web 2.0, de essa internet mais interativa, a ampliação das interfaces gráficas para usuários e depois o surgimemnto das redes sociais. 
+É uma virada importante nos anos 1990, com os grandes projetos de digitalização em massa de fontes, de livros. Isso vai começar a dar uma outra força para esse movimento e que vai, inclusive, possibilitar pesquisas linguísticas de longa duração, os estudos de que eles chamam de ngrams, as palavras repetidas e a história desses conceitos ao longo do tempo. Isso começa a crescer e ganhar muita força nos anos 1990. E nos anos 2000 a gente tem essa virada, sobretudo com a web 2.0, de essa internet mais interativa, a ampliação das interfaces gráficas para usuários e depois o surgimento das redes sociais. 
 
 Tudo isso faz com que você tenha uma explosão das pesquisas e que vai desembocar no que a gente chama de Humanidades Digitais. É interessante perceber que há estudos que mostram uma a queda no uso do termo Computação e História e o crescimento de Humanidades Digitais e História Digital, em livros, seminários, congressos. Há uma mudança nesse campo. E aí, sim, a gente pode falar de um campo que está se constituindo, mas essa constituição começa no fim do século 20, em muitos centros importantes.
 
-Adam Crymble que chama  Technology & the Historian, que fala que a gente precisa, mais do que definir a história digital, (e eu acho que isso serve para as Humanidades como um todo), a gente precisa fazer as suas histórias. Eu acho que, talvez, no Brasil, a gente esteja no momento de precisar fazer essas histórias dos usos da tecnologia na historiografia e isso serve para as outras áreas. 
+Adam Crymble que chama  Technology & the Historian, que fala que a gente precisa, mais do que definir a história digital, (e eu acho que isso serve para as Humanidades como um todo), a gente precisa fazer as suas histórias (p. 18). Eu acho que, talvez, no Brasil, a gente esteja no momento de precisar fazer essas histórias dos usos da tecnologia na historiografia e isso serve para as outras áreas. 
+
+E se relacionam com variados aspectos do trabalho do/a historiador/a: pesquisa, o arquivo, a sala de aula, a comunicação e divulgação do conhecimento.
 
 Você vê trabalhos, desde os anos 1980, que utilizam o computador, que vão lidar com bancos de dados. E aí falando sobre história da escravidão: os inventários, as  digitalizações dos livros de paróquia e todo um trabalho da história oral que foi feito durante décadas, o trabalho do Tiago Gil lá na UnB que já tem um tempo longo. Então há uma história que precisa ser feita, mas a gente tem visto muitos trabalhos surgindo com esse desejo da novidade, o que me parecer normal num campo em disputa, mas que precisa ser mais sustentado por uma história dessa historiografia.
 
@@ -103,7 +105,7 @@ Pensar no conceito de comunidade de práticas e a virada laboratorial:
 
 Daniel Alves.
 
-Exemplos de laboratórios: Tem uma série de laboratórios sendo criados, e a gente tem o Laboratório de Humanidades digitais da UFBA, que atualmente tem uma pesquisa reconhecida internacionalmente sobre os grupos de extrema direita no Telegram. E isso tem sido um carro chefe do laboratório, possibilitando a interação com diversos outros grupos internacionais e nacionais. O laboratório tem parceria com laboratório da Universidade Nova de Lisboa, com a FGV no Rio, que tem um laboratório importante; tem um laboratório da PUC  no Rio. Enfim, eu vou acabar esquecendo vários, mas tem um o Centro de Humanidade Digital da Unicamp. E acabou de ser criado um laboratório de ensino e história digital na universidade de Roraima.  Enfim, eu percebo que há um movimento em expansão. Tem os cursos tradicionais de metodologia lá em Minas e tem um monte de iniciativas. Talvez, a iniciativa mais importante seja um mestrado de Humanidades Digitais na Universidade Federal do Rio de Janeiro. E é recente e formou as primeiras turmas agora, se eu não me engano. E aí, sim, é um mestrado específico voltado para as Humanidades Digitais que é profundamente multidisciplinar e interdisciplinar. E tem o IBICT com o LARHUD - Laboratório em Rede de Humanidades Digitais,   sob a liderança do Ricardo Pimenta. Enfim, eu acho que falta, talvez, mais a conexão entre esses espaços e uma política pública mais eficiente. Recentemente, liderado pelo IBICT,  foi criada a rede de Humanidade Digitais com o LAB- HD e tem o pessoal de Natal,  da UFBA,  do Paraná,  da UnB, do Rio e é uma rede que tem o intuito de mapear e compreender esse movimento para  pautar a políticas públicas. Eles lançaram o Manifesto de  Pirenópolis, com o pessoal da Unicamp,  do laboratório do Leonardo Nascimento com essa preocupação de construir essa rede que possibilite,  com financiamento público,  com o apoio do governo federal, possibilitar, compreender em que pé que a gente está e avançar.
+Exemplos de laboratórios: Tem uma série de laboratórios sendo criados, e a gente tem o Laboratório de Humanidades digitais da UFBA, que atualmente tem uma pesquisa reconhecida internacionalmente sobre os grupos de extrema direita no Telegram. E isso tem sido um carro chefe do laboratório, possibilitando a interação com diversos outros grupos internacionais e nacionais. O laboratório tem parceria com laboratório da Universidade Nova de Lisboa, com a FGV no Rio, que tem um laboratório importante; tem um laboratório da PUC  no Rio. Enfim, eu vou acabar esquecendo vários, mas tem um o Centro de Humanidade Digital da Unicamp. E acabou de ser criado um laboratório de ensino e história digital na universidade de Roraima.  Enfim, eu percebo que há um movimento em expansão. Tem os cursos tradicionais de metodologia lá em Minas e tem um monte de iniciativas. Talvez, a iniciativa mais importante seja um mestrado de Humanidades Digitais na Universidade Federal do Rio de Janeiro. E é recente e formou as primeiras turmas agora, se eu não me engano. E aí, sim, é um mestrado específico voltado para as Humanidades Digitais que é profundamente multidisciplinar e interdisciplinar. E tem o IBICT com o LARHUD - Laboratório em Rede de Humanidades Digitais,   sob a liderança do Ricardo Pimenta. Enfim, eu acho que falta, talvez, mais a conexão entre esses espaços e uma política pública mais eficiente. Recentemente, liderado pelo IBICT,  foi criada a rede de Humanidade Digitais com o LABHD e tem o pessoal de Natal,  da UFBA,  do Paraná,  da UnB, do Rio e é uma rede que tem o intuito de mapear e compreender esse movimento para  pautar a políticas públicas. Eles lançaram o Manifesto de  Pirenópolis, com o pessoal da Unicamp,  do laboratório do Leonardo Nascimento com essa preocupação de construir essa rede que possibilite,  com financiamento público,  com o apoio do governo federal, possibilitar, compreender em que pé que a gente está e avançar.
 
 Avançar com a ideia de *Digital Hermeneutics*[^dig-herm]
 
@@ -121,9 +123,56 @@ Fickers, Andreas, e Juliane Tatarinov, orgs. **Digital History and Hermeneutics:
 
 ### A mediação das plataformas e motores de busca
 
-Sem conhecimento técnico não teremos como fazer nosso trabalho!
+Sem conhecimento técnico não teremos como fazer nosso trabalho?
 
-Um caso emblemático: a HDB, seus vieses e potencialidades
+Essa é uma questão que merece uma conversa mais atenta. Para exercermos nossa capacidade criativa enquanto historiadores/as, precisamos conhecer minimamente as estruturaras, organizações, funcionamento dos arquivos que trabalhamos; precisamos conhecer minimamente as capacidades técnicas dos gravadores e câmeras digitais que utilizamos para realizar entrevistas (ou do celular utilizado); etc.
+
+Ao lidarmos com ferramentas ou acervos digitais ou digitalizados também precisamos conhecer a base técnica de sua formação para podermos explorá-los de forma eficiente, e mais, alargar as possibilidades epistemológicas de seu uso.
+
+Ou seja, ao abrir um navegador e pesquisar por jornais digitalizados, precisamos entender minimamente como a lista de resultados será apresentada, e mais, como ela vai diferir enormemente para cada conjunto de variáveis combinadas: qual seu histórico, qual buscador, quais parâmetros utilizados, seu local de busca, etc.
+
+Mas se isso já é impactam té numa simples busca genérica em buscador, imagina em um repositório digital que irá basear, e muitas vezes direcionar, sua pesquisa acadêmica!
+
+### Um caso emblemático: a HDB, seus vieses e potencialidades
+
+Vejamos o caso da Hemeroteca Digital Brasileira da FBN. Nos últimos anos tenho produzido reflexões teóricas a partir da HDB e (ontem) encerrei meu estágio de pós-doutorado justamente sobre hemerotecas de jornais digitalizados em português, realizando uma análise comparativa enter os casos brasileiro e português e produzindo um framework específico para pesquisa-as que lidam com fontes desde tipo.
+
+Além deste motivo, recentemente tenho recebido muito pedidos de parecer e visto muitos artigos de História da Educação que utilizam a HDB como fonte, e muitas vezes como fonte principal. 
+
+Por esses motivos, entendo que ela serve como um exemplo muito rico para pensarmos sobre os impactos de aspectos técnicos e dos vieses dos acervos para a pesquisa histórica.
+
+O que é a HDB?
+
+Como já argumentei anteriormente:
+
+>[citar pyHDB sobre os impactos técnicos]
+
+Mas além disto, quando pesquisamos nela, temos noção precisa do escopo desse acervo? Após solicitar os dados diretamente à FBN, obtive acesso à um arquivo XML, exportado internamente da plataforma da FBN, contendo todos os dados sobre periódicos digitalizados disponíveis na HDB. Esse XML é muito rico e fundamental para a compreensão do carácter e vieses desse acervo tão importante para a pesquisa histórica brasileira. Após consulta aos setores responsáveis da FBN, recebi autorização para tornar público esses dados. Em minha pesquisa de pós-doutorado, realizei a análise desses dados e apresento para vocês alguns aspectos para nossa reflexão.
+
+#### Visão geral do acervo
+
+- Volume de dados e variedade;
+- Escopo cronológico e geográfico;
+- Periodicidade;
+- Longevidade dos periódicos
+
+#### Viés temporal?
+
+- Há uma concentração de periódicos digitalizados em algum período específico?
+- O que isso quer dizer?
+
+#### Viés geográfico?
+
+- A HDB representa um acervo geograficamente centralizado?
+- O que isso quer dizer?
+
+### Paremos de usar a HDB?!
+
+Nunca!
+
+Entretanto, nossa formação enquanto pesquisadores precisa se transformar em aspectos técnicos e teóricos que acompanhem as transformações nas formas de acesso aos vestígios do passado. 
+
+Mas também os repositórios/arquivos precisam tornar suas escolhas técnicas (sempre políticas) e características dos seus acervos públicas e escrutináveis.
 
 ## Afinal, como pesquisamos e o que demandamos?
 
@@ -131,7 +180,18 @@ Um caso emblemático: a HDB, seus vieses e potencialidades
 
 ## Futuro e presente
 
-- Formação técnica
-- Reflexões epistemológicas
-- Colaboração, transparência, ciência aberta
-- Financiamento, políticas públicas
+### Formação técnica
+
+Reforço metodológico + interdisciplinaridade + laboratórios
+
+### Reflexões epistemológicas
+
+Teoria da história mais crucial do que nunca.
+
+### Colaboração, transparência, ciência aberta
+
+>the resistance to citing digital sources that is still widespread in the humanities. We have found that this resistance is particularly prevalent where a print version of the source also exists (Blaney, 2017, parágrafo 5)
+
+### Financiamento, políticas públicas
+
+Desigualdade global do capitalismo + desigualdades raciais e de gênero (um campo ainda marcado por privilégios)
