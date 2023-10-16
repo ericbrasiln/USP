@@ -13,7 +13,7 @@ titlepage-rule-color: "ED8796"
 
 ## historia_digital.py
 
-Quando estamos programando, é comum precisarmos passar o caminho de um arquivo para o programa que estamos criando. Se quisermos ler uma fonte, abrir uma imagem, analisar dados de uma planilha ou fazer o download de um pdf para uma pasta específica, temos que informar ao computador qual o seu caminho. 
+Quando estamos programando, é comum precisarmos passar o caminho de um arquivo para o programa que estamos criando. Se quisermos ler uma fonte, abrir uma imagem, analisar dados de uma planilha ou fazer o download de um pdf para uma pasta específica, temos que informar ao computador qual o seu caminho. Ou seja, onde o arquivo está armazenado em sua máquina.
 
 Ele necessariamente deve ser preciso: explícito e completo, desde sua pasta raiz até o nome do arquivo com sua respectiva extensão.
 
@@ -53,7 +53,7 @@ O Python não foi capaz de encontrar o arquivo. Portanto, não pode executar sua
 
 E o que isso tem a ver conosco?
 
-Assim como no exemplo do python, nossas pesquisas, cada vez mais mediadas, viabilizadas e mesmo engendradas por ferramentas, métodos e dados digitais, demandam precisão metodológica mais cuidadosa e desta precisão, e do seu respectivo registro, depende a própria possibilidade de execução da pesquisa. 
+Assim como o python precisa de uma informação precisa para encontrar um arquivos e executar suas tarefas, nossas pesquisas, cada vez mais mediadas, viabilizadas e mesmo engendradas por ferramentas, métodos e dados digitais, demandam precisão e transparência metodológica mais cuidadosa e desta precisão, e do seu respectivo registro, e da transparência  depende a própria possibilidade de execução, avaliação, compreensão da pesquisa. 
 
 Em outras palavras, o desenvolvimento e aplicação de metodologias documentadas e precisas são fundamentais para a produção do conhecimento. Isso parece óbvio, porém o que percebemos, e nisso eu me incluo e imagino que falo pela maioria de nós, é que as pesquisas mediadas e baseadas em dados digitais têm, no melhor dos cenários, apenas emulado padrões metodológicos analógicos sobre um universo de recursos digitais que gera resultados comumente inverificáveis, não-reproduzíveis, e dificilmente escrutináveis.
 
@@ -65,7 +65,7 @@ Como numa linguagem de programação, sem o registro preciso do caminho que leva
 
 Há um emaranhado de caminhos trilhados e outros tantos abandonados para eu chegar aqui, sentado nessa mesa tão importante, usando um blazer pra fingir que eu sou sério. Caminhos da própria relação entre história e o digital, entre nosso fazer historiográfico e a computação, mas também dos meus caminhos pessoais. 
 
-Mais do que uma *ego-história* ou a realização da ilusão biográfica, alertada por Bourdieu, vou falar brevemente dessa trajetória individual, pois possibilita refletir sobre mudanças que de alguma forma afetam a todos e todas.
+Mais do que uma *ego-história* e tentando escapar  da ilusão biográfica, alertada por Bourdieu, vou falar brevemente dessa trajetória individual, pois possibilita refletir sobre mudanças que de alguma forma afetam a todos e todas.
 
 ###  Meus caminhos pessoais: do analógico ao digital à programação
 
@@ -73,7 +73,7 @@ A minha formação foi toda em História, na Universidade Federal Fluminense, l�
 
 O doutorado foi um momento em que me desperta uma reflexão metodológica, a partir de um conjunto de dados digitais e ferramentas digitais que eu comecei a utilizar de forma intuitiva e pouco criteriosa - e eu acho que isso é uma coisa comum para a grande maioria dos pesquisadores contemporâneos, que estão hoje na ativa. 
 
-Após a defesa do doutorado, em 2016, eu eu me tornei professor da UNILAB - Universidade da Integração Internacional da Lusofonia Afro-brasileira, no Campus dos Malês, aqui na Bahia onde sou professor de História da América até hoje. E aí eu acabei me aprofundando nesse debate, sobretudo com o professor Leonardo Nascimento, que era professor de metodologia da UNILAB àquela altura, e que depois passou para UFBA, onde montou o Laboratório de Humanidades Digitais do qual eu também sou membro. E eu não tenho dúvida que foi ali com os debates, diretamente com ele, que é especialista já há muito tempo em Sociologia Digital que eu percebi que muitas daquelas questões que eu estava levantando não eram novas, necessariamente, e já havia uma literatura importante por trás, mas que a gente, partindo das nossas experiências, do Brasil, das pesquisas de história social, tinha muito a contribuir. Então a partir daí que eu entrei de vez em 2017-18 na pesquisa de História Digital, entendendo o que eram as Humanidades Digitais. E estou aí, há uns cinco anos, pesquisando isso. Tanto que quase não me chamam mais para falar de carnaval. Agora só querem me chamar para falar de humanidades digitais. Eu gosto também, mas de vez em quando eu fico com saudade de falar  sobre carnaval (risos). 
+Após a defesa do doutorado, em 2016, eu eu me tornei professor da UNILAB - Universidade da Integração Internacional da Lusofonia Afro-brasileira, no Campus dos Malês, na Bahia onde sou professor de História da América até hoje. E aí eu acabei me aprofundando nesse debate, sobretudo com o professor Leonardo Nascimento, que era professor de metodologia da UNILAB àquela altura, e que depois passou para UFBA, onde montou o Laboratório de Humanidades Digitais do qual eu também sou membro. E eu não tenho dúvida que foi ali com os debates, diretamente com ele, que é especialista já há muito tempo em Sociologia Digital que eu percebi que muitas daquelas questões que eu estava levantando não eram novas, necessariamente, e já havia uma literatura importante por trás, mas que a gente, partindo das nossas experiências, do Brasil, das pesquisas de história social, tinha muito a contribuir. Então a partir daí que eu entrei de vez em 2017-18 na pesquisa de História Digital, entendendo o que eram as Humanidades Digitais. E estou aí, há uns cinco anos, pesquisando isso. Tanto que quase não me chamam mais para falar de carnaval. Agora só querem me chamar para falar de humanidades digitais. Eu gosto também, mas de vez em quando eu fico com saudade de falar  sobre carnaval. 
 
 ### Breve história do uso da computação na História: de Busa ao Programming historian
 
@@ -152,19 +152,55 @@ Mas além disto, quando pesquisamos nela, temos noção precisa do escopo desse 
 #### Visão geral do acervo
 
 - Volume de dados e variedade;
+
+| Coluna         |  Quantidade  |
+|--------------- | ------------ |
+| Título         | 7685         |
+| Subtítulo      | 3666         |
+| Local          | 7608         |
+| Período        | 7265         |
+| Editora        | 5675         |
+| Peridodicidade | 5901         |
+| Idioma         | 6614         |
+
 - Escopo cronológico e geográfico;
+
+Valores únicos na coluna Local: 673
+
+Cronologia: de 1521 a 2022
+
 - Periodicidade;
 - Longevidade dos periódicos
 
 #### Viés temporal?
 
 - Há uma concentração de periódicos digitalizados em algum período específico?
+
+Scatter plot com datas de início: file:///home/ebn/Documentos/Github/hemdig-framework/repositorios/BND_BR/charts/datas_inicio_scatter.html
+
+Gráfico de barras de dataas de início e fim por décadas: file:///home/ebn/Documentos/Github/hemdig-framework/repositorios/BND_BR/charts/decadas_inicio_termino_bar.html
+
+
 - O que isso quer dizer?
 
 #### Viés geográfico?
 
 - A HDB representa um acervo geograficamente centralizado?
+
+Gráfico de barras com as 20 cidades mais recorrentes: file:///home/ebn/Documentos/Github/hemdig-framework/repositorios/BND_BR/charts/cidades_bar.html
+
+Pizza cidades com mais de 1%: file:///home/ebn/Documentos/Github/hemdig-framework/repositorios/BND_BR/charts/cidades_pie.html
+
 - O que isso quer dizer?
+
+A cidade do Rio de Janeiro corresponde a 28,43% do total e 47,1% entre as cidades com pelo menos 1%. A cidade de São Paulo vem em seguida, mas com apenas 3,82% do total e 6,6% entre as cidades com pelo menos 1%. A diferença entre São Paulo e as seguintes é pequena: Florianópolis com 3,1%; Recife com 2,69%; Salvador com 2,49% e Maceió com 2,40%.
+
+Apesar da centralidade da cidade do Rio de Janeiro nos números absolutos do acervo, é interessante notar que o estado do Rio de Janeiro possui apenas 48 cidades entre as localidades dos periódicos, atrás de Santa Catarina (49), São Paulo (59) e Minas Gerais, que apresenta o maior número de cidades no dataframe, com 190.
+
+Cidades por Estado: file:///home/ebn/Documentos/Github/hemdig-framework/repositorios/BND_BR/charts/estados_bar.html
+
+ De maneira geral, percebemos que o acervo apresenta uma centralidade para periódicos publicados na cidade do Rio de Janeiro, entre os anos 1860 e 1920; periódicos majoritariamente publicados em língua portuguesa; com periodicidade variada, mas com destaque para periódicos semanais e mensais. Também podemos perceber que a vida da maioria dos periódicos foi bastante efêmera, com 5694 periódicos tendo apenas um ano de publicação registrado no acervo de um total de 7685. Isso corresponde a 74,1% dos periódicos. Apenas 1991 periódicos possuem mais de um ano de publicação registrado no acervo, o que corresponde a 25,9% do total.
+
 
 ### Paremos de usar a HDB?!
 
